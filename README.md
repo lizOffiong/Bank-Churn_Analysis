@@ -18,9 +18,11 @@ I addressed missing values and inconsistencies.
 ### Modelling:
 I automatically established connections. Made adjustments to remove any relationships replacing them with the necessary ones.
 
+![](Adjusted_BankChurn_Model.png)
+---
 
-
-
+* The model is a star schema.
+* There are 10-dimension tables with 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
 
 ### Exploratory Data Analysis (EDA)
 I uncovered factors that affect churn rates and analyzed the patterns and trends in customer transactions within the dataset, which ultimately leads to customer attrition.
