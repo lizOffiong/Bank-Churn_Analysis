@@ -1,4 +1,4 @@
-# Bank-Churn_Analysis
+# Bank Churn Analysis
 
 ![](Bank-Churn_Dashboard.png)
 ---
