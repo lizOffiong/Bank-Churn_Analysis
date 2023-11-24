@@ -26,7 +26,7 @@ I automatically established connections. Made adjustments to remove any relation
 
 ### Exploratory Data Analysis (EDA)
 I uncovered factors that affect churn rates and analyzed the patterns and trends in customer transactions within the dataset, which ultimately leads to customer attrition.
-Through this project I discovered customer segments that are more likely to churn and identified the factors that influence their decision to leave. For instance it was found that males had the highest percentage of customers who exited at 55.9% while the age group, between 41 and 50 years had the highest number of customers who exited. Additionally it was revealed that most customers tend to leave within a span of four years.
+Through this project I discovered customer segments that are more likely to churn and identified the factors that influence their decision to leave. For instance it was found that males had the highest percentage of customers who exited at 55.9% while the age group, between 41 and 50 years had the highest number of customers who exited. Additionally it was revealed that most customers tend to leave within a span of four years. Total Customers for Male (5,457) was higher than Female (4,543) and Male accounted for 54.57% of Total Customers.
 
 ### Recommendations:
 To ensure customer retention it is advisable to consider strategies, like enhancing customer service providing by implementing proactive measures to retain customers.
