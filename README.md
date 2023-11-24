@@ -1,6 +1,6 @@
 # Bank Churn Analysis
 
-![](Bank-Churn_Dashboard.png)
+![](Bank_Churn_Dashboard.png)
 ---
 
 ### Project Overview:
