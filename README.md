@@ -31,4 +31,4 @@ Through this project I discovered customer segments that are more likely to chur
 ### Recommendations:
 To ensure customer retention it is advisable to consider strategies, like enhancing customer service providing by implementing proactive measures to retain customers.
 
-#### _You can interact with the dashboard_ [here](https://app.powerbi.com/links/t0mN9DaXwX?ctid=7a7d9927-84e9-4910-b10f-850c64b28029&pbi_source=linkShare)
+#### _You can interact with the dashboard_ [here](https://app.powerbi.com/groups/me/reports/ba6c0d15-382e-4fe5-abd5-dbd16226a12f?ctid=7a7d9927-84e9-4910-b10f-850c64b28029&pbi_source=linkShare)
